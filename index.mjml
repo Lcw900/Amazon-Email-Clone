@@ -1,0 +1,268 @@
+<mjml>
+  <mj-head>
+    <mj-title>Amazon Clone Email</mj-title>
+    <mj-preview>Preview Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="2px 0 2px 0" background-color="#016442">
+      <!--Amazon Logo-->
+      <mj-section padding="0" max-width="600px" padding-left="2px" padding-right="2px" align="left" height="62px">
+        <mj-column width="100%" padding="0" margin="0" background-color="white" padding="0">
+          <mj-image class="hero" width="132px" height="58px" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2Foutbound%2FOutboundTemplates%2FAmazon_logo_US._BG255%2C255%2C255_.png&amp;t=1704050335&amp;ymreqid=44ac2bcc-c7bb-1823-1ce0-88000901e500&amp;sig=T7gvf_9HuCHxyfSJgXdRdA--~D" padding="0" href="https://www.amazon.com/" alt="amazon logo" width="100px" align="left">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!--Header Image-->
+      <mj-section background-color="#016442" width="600px" padding="2px 0 4px 0">
+        <mj-column padding="0" width="600px">
+          <mj-image padding="0" width="600px" height="272px" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2FOutbound%2F2023%2FHoliday%2FWave7%2F12.23%2FHoliday_W7-1223_HeroStatic_1575x714_3x.jpg&amp;t=1704050335&amp;ymreqid=44ac2bcc-c7bb-1823-1ce0-88000901e500&amp;sig=CaVMIf1a0NzlcTYtIGmp5Q--~D" />
+        </mj-column>
+      </mj-section>
+
+      <!--Send them a specialty eGift card with instant delivery Section-->
+      <mj-section max-width="600px" background-color="#016442" padding="2px 8px 2px 8px" border-radius="4px">
+        <mj-column background-color="white" width="100%" padding="12px 8px 16px 8px" width="100%" border-radius="4px">
+          <mj-text align="left" font-size="22px" color="#0f1111" font-weight="700" font-family="ember, amazon ember, arial, sans-serif" line-height="28px" padding="0 0 5px 0">
+            Send them a specialty eGift card with instant delivery
+          </mj-text>
+          <mj-text font-weight="400" color="#0f1111" font-size="15px" line-height="20px" align="left" font-family="ember, amazon ember, arial, sans-serif" padding="0 0 5px 0">
+            No shipping required on Apple, Netflix, Starbucks, and more
+          </mj-text>
+
+          <mj-button css-class="amazon-button" href="https://www.amazon.com/b/117394558011?ref_=pe_91249650_786619500_h_1_1_manu_cta" background-color="#FFD814" border="1px solid #FCD200" color="#0f1111" border-radius="24px" align="left" font-size="13px" height="33px" width="110.83px" padding="5px 0 5px 0">
+            Shop now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!--Featured Deals Section-->
+      <mj-section max-width="600px" padding="6px 8px 6px 8px">
+
+        <mj-column padding="10px 8px 4px 8px" background-color="white" border-radius="4px">
+          <mj-text font-family="ember, 'amazon ember', arial, sans-serif" font-size="18px" line-height="22px" font-weight="700" line-height="22px" padding="0" color="#0f1111">
+            Lindsey Alcinay's Featured deals
+          </mj-text>
+
+          <mj-section max-width="600px" padding="10px 0 0 0" background-color="white">
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/r.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99d9c4b7585b0p0na&amp;R=3TAXFZ7F2S2I4&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CGJS424X%2F%3Fref_%3Dpe_91249650_786619500_2p_0_lm&amp;H=JWEJ7BGGAIAWTQ7NJVK7CESU3QOA&amp;ref_=pe_91249650_786619500_2p_0_lm" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51I02rhdhGL._SR269%2C269_.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=G6Y.y7CCBZJtYC.2BLktaQ--~D" alt="Echo 4th Gen Twilight Blue" padding="8px" border-radius="4px" width="152px" height="auto" align="center">
+              </mj-image>
+              <mj-text padding="4px 6px" color="#cc0c39" font-size="11px" font-weight="700" line-height="16px" font-family="Arial, sans-serif">
+                Limited time deal
+              </mj-text>
+              <mj-text padding="8px 0" font-size="20px" color="#CC0C39" font-weight="300" background-color="red">
+                -50% <span style="color:#0F1111;"><sup style="font-size:12px;position:relative;">$</sup>59<sup css-class="99" style="font-size:12px;position:relative;">99</sup></span>
+              </mj-text>
+
+              <mj-text padding="5px 0 10px 0" font-family="Arial, sans-serif" font-size="15px" font-weight="400" line-height="21px" color="#0F1111">
+                Echo 4th Gen Twilight Blue
+              </mj-text>
+
+            </mj-column>
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/product/B0CGJQQ486/?ref_=pe_91249650_786619500_2p_1_lm" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F41VKzABfGjL._SR269%2C269_.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=p.o02W62HjPO528vAUjvcA--~D" alt="Echo 4th Gen Twilight Blue" padding="8px" border-radius="4px" width="152px" height="auto" align="center">
+              </mj-image>
+              <mj-text padding="4px 6px" color="#cc0c39" font-size="11px" font-weight="700" line-height="16px" font-family="Arial, sans-serif">
+                Limited time deal
+              </mj-text>
+              <mj-text padding="8px 0" font-size="20px" color="#CC0C39" font-weight="300" background-color="red">
+                -70% <span style="color:#0F1111;"><sup style="font-size:12px;position:relative;">$</sup>17<sup style="font-size:12px;position:relative;">99</sup></span>
+              </mj-text>
+
+              <mj-text padding="5px 0 10px 0" font-family="Arial, sans-serif" font-size="15px" font-weight="400" line-height="21px" color="#0F1111">
+                Echo Pop Lavender Bloom
+              </mj-text>
+            </mj-column>
+          </mj-section>
+
+          <mj-section max-width="600px" padding="0" background-color="white">
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/product/B0CGJTGZV7/?ref_=pe_91249650_786619500_2p_2_lm" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F411WAN7x-hL._SR269%2C269_.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=.rI_ACB1UZMFka6vP3Iqzg--~D" alt="Echo 4th Gen Twilight Blue" padding="8px" border-radius="4px" width="152px" height="auto" align="center">
+              </mj-image>
+              <mj-text padding="4px 6px" color="#cc0c39" font-size="11px" font-weight="700" line-height="16px" font-family="Arial, sans-serif">
+                Limited time deal
+              </mj-text>
+              <mj-text padding="8px 0" font-size="20px" color="#CC0C39" font-weight="300" background-color="red">
+                -50% <span style="color:#0F1111;"><sup style="font-size:12px;position:relative;">$</sup>39<sup css-class="99" style="font-size:12px;position:relative;">99</sup></span>
+              </mj-text>
+
+              <mj-text padding="5px 0 10px 0" font-family="Arial, sans-serif" font-size="15px" font-weight="400" line-height="21px" color="#0F1111">
+                Echo Dot 5th Gen
+              </mj-text>
+
+            </mj-column>
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/product/B0CGJQQ486/?ref_=pe_91249650_786619500_2p_1_lm" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F31A9HFlXDsL._SR269%2C269_.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=8UXiYCqiuOnFo5LELt1VuQ--~D" alt="Echo 4th Gen Twilight Blue" padding="8px" border-radius="4px" width="152px" height="auto" align="center">
+              </mj-image>
+              <mj-text padding="4px 6px" color="#cc0c39" font-size="11px" font-weight="700" line-height="16px" font-family="Arial, sans-serif">
+                Limited time deal
+              </mj-text>
+              <mj-text padding="8px 0" font-size="20px" color="#CC0C39" font-weight="300" background-color="red">
+                -19% <span style="color:#0F1111;"><sup style="font-size:12px;position:relative;">$</sup>6<sup style="font-size:12px;position:relative;">85</sup></span>
+              </mj-text>
+
+              <mj-text padding="5px 0 10px 0" font-family="Arial, sans-serif" font-size="15px" font-weight="400" line-height="21px" color="#0F1111">
+                SHARPIE Highlighters
+              </mj-text>
+            </mj-column>
+          </mj-section>
+
+          <mj-section max-width="600px" padding="0" background-color="white">
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/product/B0CGJQH3NV/?ref_=pe_91249650_786619500_2p_4_lm" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F416BEqYZtqL._SR269%2C269_.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=dxKoKUehbjsgheRDBZS.ig--~D" alt="Echo 4th Gen Twilight Blue" padding="8px" border-radius="4px" width="152px" height="auto" align="center">
+              </mj-image>
+              <mj-text padding="4px 6px" color="#cc0c39" font-size="11px" font-weight="700" line-height="16px" font-family="Arial, sans-serif">
+                Limited time deal
+              </mj-text>
+              <mj-text padding="8px 0" font-size="20px" color="#CC0C39" font-weight="300" background-color="red">
+                -50% <span style="color:#0F1111;"><sup style="font-size:12px;position:relative;">$</sup>59<sup css-class="99" style="font-size:12px;position:relative;">99</sup></span>
+              </mj-text>
+
+              <mj-text padding="5px 0 10px 0" font-family="Arial, sans-serif" font-size="15px" font-weight="400" line-height="21px" color="#0F1111">
+                Echo 4th Gen Glacier White
+              </mj-text>
+
+            </mj-column>
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/product/B0CGJQJHCB/?ref_=pe_91249650_786619500_2p_5_lm" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F41X-r0lo6xL._SR269%2C269_.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=_dr8JxNDz7UJpOOtuEXAvA--~D" alt="Echo 4th Gen Twilight Blue" padding="8px" border-radius="4px" width="152px" height="auto" align="center">
+              </mj-image>
+              <mj-text padding="4px 6px" color="#cc0c39" font-size="11px" font-weight="700" line-height="16px" font-family="Arial, sans-serif">
+                Limited time deal
+              </mj-text>
+              <mj-text padding="8px 0" font-size="20px" color="#CC0C39" font-weight="300" background-color="red">
+                -70% <span style="color:#0F1111;"><sup style="font-size:12px;position:relative;">$</sup>17<sup style="font-size:12px;position:relative;">99</sup></span>
+              </mj-text>
+
+              <mj-text padding="5px 0 10px 0" font-family="Arial, sans-serif" font-size="15px" font-weight="400" line-height="21px" color="#0F1111">
+                Echo Pop Lavender Bloom
+              </mj-text>
+            </mj-column>
+          </mj-section>
+
+          <mj-button padding-top="40px" css-class="amazon-button" href="https://www.amazon.com/b/117394558011?ref_=pe_91249650_786619500_h_1_1_manu_cta" background-color="#FFD814" border="1px solid #FCD200" color="#0f1111" border-radius="24px" align="left" font-size="13px" height="33px" width="110.83px" padding="5px 0 5px 0">
+            Shop now
+          </mj-button>
+
+
+        </mj-column>
+      </mj-section>
+
+      <!--Discover the deal of the day-->
+      <mj-section max-width="600px" padding="6px 10px 6px 10px">
+        <mj-column padding="35px 12px 10px 12px" background-color="white" border-radius="4px">
+
+          <mj-text font-family="ember, 'amazon ember', arial, sans-serif" font-size="22px" line-height="28px" font-weight="700" line-height="22px" padding="0" color="#0f1111">
+            Discover the deal of the day
+          </mj-text>
+
+          <mj-image padding="35px 8px 15px 8px" href="https://www.amazon.com/gp/r.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99d9c4b7585b0p0na&amp;R=3TAXFZ7F2S2I4&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CGJS424X%2F%3Fref_%3Dpe_91249650_786619500_2p_0_lm&amp;H=JWEJ7BGGAIAWTQ7NJVK7CESU3QOA&amp;ref_=pe_91249650_786619500_2p_0_lm" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2FOutbound%2F2023%2FHoliday%2FWave7%2F12.22%2FHoliday_W7-2_MOD3_Deal_1029x1029_3x.gif&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=M69zTWcd435Ih3rtc46P5Q--~D" border-radius="4px" height="auto" align="center">
+          </mj-image>
+
+          <mj-button css-class="amazon-button" href="https://www.amazon.com/b/117394558011?ref_=pe_91249650_786619500_h_1_1_manu_cta" background-color="#FFD814" border="1px solid #FCD200" color="#0f1111" border-radius="24px" align="left" font-size="13px" height="33px" width="120.83px" padding="5px 0 10px 0">
+            Reveal now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!--Enjoy Prime perks this holiday-->
+      <mj-section class="enjoy" max-width="600px" padding="6px 10px 6px 10px">
+
+        <mj-column padding="30px 8px 4px 15px" background-color="white" border-radius="4px">
+          <mj-text font-family="ember, 'amazon ember', arial, sans-serif" font-size="18px" line-height="22px" font-weight="700" line-height="22px" padding="0 5px" color="#0f1111">
+            Enjoy Prime perks this holiday
+          </mj-text>
+
+          <mj-section padding="4px 0 0 0">
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/f.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=25X5PDHTUE7KY&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fmusic%2Fplayer%2Fplaylists%2FB0CLT7L5MB%3Fref_%3Dpe_91249650_786619500_cl_4_3_manu_img_a&amp;H=TERMEC4NRMX7JWCSW9EA0QHTA3SA&amp;ref_=pe_91249650_786619500_cl_4_3_manu_img_a" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2FOutbound%2F2023%2FHoliday%2FWave7%2F12.23%2FHoliday_W7-1223_MOD3_Vertical_01_729x729_3x.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=78pd1OwOAuHCrZEW2eJaZA--~D" alt="Amazon Music phone image" padding="8px" border-radius="4px" width="277px" height="auto" align="center">
+              </mj-image>
+            </mj-column>
+            <mj-column width="50%" padding="50px 20px 0 20px">
+              <mj-text class="enjoy" font-size="18px" font-weight="700" line-height="22px" padding="10px 0px">
+                Amazon Music
+              </mj-text>
+              <mj-text class="enjoy" font-size="15px" font-weight="400" line-height="20px" padding="40px 0">
+                Stream the best songs and albums of the year
+              </mj-text>
+              <mj-button class="enjoy" href="https://www.amazon.com/gp/f.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=33VPDK25SY6HW&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fmusic%2Fplayer%2Fplaylists%2FB0CLT7L5MB%3Fref_%3Dpe_91249650_786619500_cl_4_3_manu_img_a&amp;H=Z9QQKH4DDQHBOXRES0UEU9SUT2GA&amp;ref_=pe_91249650_786619500_cl_4_3_manu_img_a" background-color="#FFD814" color="#0f1111" border-radius="24px" padding="0px 0px" font-size="13px" align="left" width="120.83px" height="33px">
+                Listen now
+              </mj-button>
+            </mj-column>
+          </mj-section>
+
+          <mj-section padding="4px 0 0 0">
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/f.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=25X5PDHTUE7KY&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fmusic%2Fplayer%2Fplaylists%2FB0CLT7L5MB%3Fref_%3Dpe_91249650_786619500_cl_4_3_manu_img_a&amp;H=TERMEC4NRMX7JWCSW9EA0QHTA3SA&amp;ref_=pe_91249650_786619500_cl_4_3_manu_img_a" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2FOutbound%2F2023%2FHoliday%2FWave7%2F12.23%2FHoliday_W7-1223_MOD3_Vertical_01_729x729_3x.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=78pd1OwOAuHCrZEW2eJaZA--~D" alt="Amazon Music phone image" padding="8px" border-radius="4px" width="277px" height="auto" align="center">
+              </mj-image>
+            </mj-column>
+            <mj-column width="50%" padding="50px 20px 0 20px">
+              <mj-text class="enjoy" font-size="18px" font-weight="700" line-height="22px" padding="10px 0px">
+                Amazon Music
+              </mj-text>
+              <mj-text class="enjoy" font-size="15px" font-weight="400" line-height="20px" padding="40px 0">
+                Stream the best songs and albums of the year
+              </mj-text>
+              <mj-button class="enjoy" href="https://www.amazon.com/gp/f.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=33VPDK25SY6HW&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fmusic%2Fplayer%2Fplaylists%2FB0CLT7L5MB%3Fref_%3Dpe_91249650_786619500_cl_4_3_manu_img_a&amp;H=Z9QQKH4DDQHBOXRES0UEU9SUT2GA&amp;ref_=pe_91249650_786619500_cl_4_3_manu_img_a" background-color="#FFD814" color="#0f1111" border-radius="24px" padding="0px 0px" font-size="13px" align="left" width="120.83px" height="33px">
+                Listen now
+              </mj-button>
+            </mj-column>
+          </mj-section>
+
+          <mj-section padding="4px 0 5px 0">
+            <mj-column width="50%">
+              <mj-image href="https://www.amazon.com/gp/f.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=25X5PDHTUE7KY&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fmusic%2Fplayer%2Fplaylists%2FB0CLT7L5MB%3Fref_%3Dpe_91249650_786619500_cl_4_3_manu_img_a&amp;H=TERMEC4NRMX7JWCSW9EA0QHTA3SA&amp;ref_=pe_91249650_786619500_cl_4_3_manu_img_a" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2FOutbound%2F2023%2FHoliday%2FWave7%2F12.23%2FHoliday_W7-1223_MOD3_Vertical_01_729x729_3x.jpg&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=78pd1OwOAuHCrZEW2eJaZA--~D" alt="Amazon Music phone image" padding="8px" border-radius="4px" width="277px" height="auto" align="center">
+              </mj-image>
+            </mj-column>
+            <mj-column width="50%" padding="50px 20px 0 20px">
+              <mj-text class="enjoy" font-size="18px" font-weight="700" line-height="22px" padding="10px 0px">
+                Amazon Music
+              </mj-text>
+              <mj-text class="enjoy" font-size="15px" font-weight="400" line-height="20px" padding="40px 0">
+                Stream the best songs and albums of the year
+              </mj-text>
+              <mj-button href="https://www.amazon.com/gp/f.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=33VPDK25SY6HW&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fmusic%2Fplayer%2Fplaylists%2FB0CLT7L5MB%3Fref_%3Dpe_91249650_786619500_cl_4_3_manu_img_a&amp;H=Z9QQKH4DDQHBOXRES0UEU9SUT2GA&amp;ref_=pe_91249650_786619500_cl_4_3_manu_img_a" background-color="#FFD814" color="#0f1111" border-radius="24px" padding="0px 0px" font-size="13px" align="left" width="120.83px" height="33px">
+                Listen now
+              </mj-button>
+            </mj-column>
+          </mj-section>
+        </mj-column>
+      </mj-section>
+
+      <!--Footer-->
+      <mj-section padding="50px 5px 0 0" background-color="#f0f2f2">
+        <mj-column>
+          <mj-text font-size="14px" line-height="20px" color="#494d4d">
+            <a href="https://www.amazon.com/gp/f.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=15JMA9UDQE8IP&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcpc%2Fhomepage%3Fref_%3Dpe_91249650_786619500_pe_ob_ftr_comm_prfs&amp;H=XREYEQASJJYB78S741HPIATXBHYA&amp;ref_=pe_91249650_786619500_pe_ob_ftr_comm_prfs" style="text-decoration:none;color:#007185;">Update your preferences</a> |
+            <a href="https://www.amazon.com/gp/r.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=1SO4IDMAUSTD7&amp;T=X&amp;U=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fgss%2Fo%2F1cXCjNxxmzlGf.bHiUpj0D.4iG1RUu0P1KlGr8mMvElxs0z-XH0TMLwH4PwTkc18T&amp;H=KMH32UN2Q0QMA3YKDUYUMRSS70EA" style="text-decoration:none;color:#007185;">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20px 0px" background-color="#f0f2f2">
+        <mj-column>
+          <mj-text>
+            ©2023 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com 410 Terry Avenue N., Seattle, WA 98109. Product prices and availability are subject to change. Ref: 786619500.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20px 0px" background-color="#f0f2f2">
+        <mj-column padding="0">
+          <mj-text>
+            <a href="https://www.amazon.com/gp/r.html?C=3CIEHQY2IA20K&amp;K=3JXEP408MXSU7&amp;M=urn:rtn:msg:2023122317412621333d92b99b46c99d9c4b7585b0p0na&amp;R=285TYILDBJBAY&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%3FnodeId%3D468496%26ref_%3Dpe_91249650_786619500&amp;H=MX45NMZFT7XYLWURVLEQUU9AII4A&amp;ref_=pe_91249650_786619500" style="text-decoration:none;color:#007185;">Privacy Policy</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="10px 10px" background-color="#f0f2f2">
+        <mj-column padding="0">
+          <mj-image padding="0" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2Foutbound%2FOutboundTemplates%2FSmile_Logo_Light._BG240%2C242%2C242_.png&amp;t=1704057367&amp;ymreqid=44ac2bcc-c7bb-1823-1cb5-1c000801e500&amp;sig=nIjnBULsNGiQnG11W03Sww--~D" alt="Amazon.com" width="86px" height="43px" align="left" />
+        </mj-column>
+      </mj-section>
+
+
+
+    </mj-section>
+  </mj-body>
+</mjml>

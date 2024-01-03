@@ -1,0 +1,12 @@
+    .hero {
+        background-color: #016442;
+        background-image: url("https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2FOutbound%2F2023%2FHoliday%2FWave7%2F12.23%2FHoliday_W7-1223_HeroStatic_1575x714_3x.jpg&amp;t=1704050335&amp;ymreqid=44ac2bcc-c7bb-1823-1ce0-88000901e500&amp;sig=CaVMIf1a0NzlcTYtIGmp5Q--~D");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100% !important;
+        width: 100% !important;
+      }
+
+
+Label the hero image in the Index.html page
